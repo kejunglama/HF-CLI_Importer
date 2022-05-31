@@ -1,0 +1,30 @@
+[
+ {
+   "brand": "Slazenger",
+   "title": "SLCS10348 SHOES",
+   "description": "",
+   "images": [
+      "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2Fslezinger%2F0a757a4c070d6f41ba609ec862fc4520.jpg?alt=media&token=f637af05-06de-4a7f-a357-d1748b93ac76",
+      ""
+   ],
+   "original_price": 4699,
+   "discount_price": "",
+   "product_sub_type": "Men Clothing",
+   "product_type": "Clothing Apparel",
+   "seller": "Labels Nepal Pvt. Ltd."
+},
+ {
+   "brand": "Slazenger",
+   "title": "SLCS10348 SHOES",
+   "description": "",
+   "images": [
+      "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2Fslezinger%2F4cd6bf33c14ea7a88626a30d8e313538.jpg?alt=media&token=ab19f518-a572-421c-b058-bea3446e0498",
+      "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2Fslezinger%2F719b6ecba33f7f069d1b72ed61041808.jpg?alt=media&token=b632a249-da12-4ff5-bcc9-9e98bdd73d4b"
+   ],
+   "original_price": 4699,
+   "discount_price": "",
+   "product_sub_type": "Men Clothing",
+   "product_type": "Clothing Apparel",
+   "seller": "Labels Nepal Pvt. Ltd."
+}
+]

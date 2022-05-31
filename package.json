@@ -1,0 +1,15 @@
+{
+    "name": "hf-firebase_json_uploader",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mr.faf",
+    "license": "ISC",
+    "dependencies": {
+        "firebase": "^9.8.2",
+        "firestore-export-import": "^1.1.0"
+    }
+}

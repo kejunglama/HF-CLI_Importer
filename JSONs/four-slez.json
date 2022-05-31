@@ -1,0 +1,52 @@
+{
+    "products": [{
+            "brand": "Slazenger",
+            "title": "Slazenger Red Lifestyle Shoes For MenSLCS10348 SHOES",
+            "description": "--Upper: Jacquard\\n-Lining: Mesh\\n-Insole: Mesh+EVA\\n-Outsole: MD",
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F1%2F1.1.jpg?alt=media&token=e57433d6-f3a4-482c-8acc-fb58476cdc5e",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F1%2F1.2.jpg?alt=media&token=55f06e6c-a66c-4c24-86b2-1b249ad756ba",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F1%2F1.3.jpg?alt=media&token=43c2ca1a-4507-4f50-8d46-3bf3ca28d6d7",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F1%2F1.4.jpg?alt=media&token=87363bb4-7eba-4849-b74c-89b2a2d1f433",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F1%2F1.5.jpg?alt=media&token=11023aaa-b30e-4101-8259-3b9dfeae27e3",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F1%2F1.6.jpg?alt=media&token=965ccbc0-b9cf-45e1-a696-50e578a0368d",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F1%2F1.7.jpg?alt=media&token=d2381b02-3752-4ab5-ba05-505eaedb54c2",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F1%2F1.8.jpg?alt=media&token=e57433d6-f3a4-482c-8acc-fb58476cdc5e"
+            ],
+            "original_price": 4699,
+            "product_sub_type": "Men Clothing",
+            "product_type": "Clothing Apparel",
+            "seller": "Labels Nepal Pvt. Ltd."
+        },
+        {
+            "brand": "Slazenger",
+            "title": "Slazenger Black Lifestyle Shoes For MenSLCS10348 SHOES",
+            "description": "--Upper: Jacquard\\n-Lining: Mesh\\n-Insole: Mesh+EVA\\n-Outsole: MD",
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F2%2F2.1.jpg?alt=media&token=3a4a6910-2ec9-4256-8d6a-881cf0ae621f",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F2%2F2.2.jpg?alt=media&token=52bf85eb-8a44-4548-896f-508e9fb05efb",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F2%2F2.3.jpg?alt=media&token=6b897ed8-3c5a-4b80-aea5-572a441be012"
+            ],
+            "original_price": 4699,
+            "product_sub_type": "Men Clothing",
+            "product_type": "Clothing Apparel",
+            "seller": "Labels Nepal Pvt. Ltd."
+        },
+        {
+            "brand": "Slazenger",
+            "title": "Slazenger Black/Red Lifestyle Shoes For MenSLCS10485 SHOES",
+            "description": "--Upper: Jacquard\\n-Lining: Mesh\\n-Insole: Mesh+EVA\\n-Outsole: MD",
+            "images": [
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F3%2F3.1.jpg?alt=media&token=edd6610e-ceca-4eff-834c-bef9a98817d9",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F3%2F3.2.jpg?alt=media&token=9b19bd67-4ea9-468f-af01-396eef422b2e",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F3%2F3.3.jpg?alt=media&token=62fb9e40-f2b6-4fbc-a41e-8a77fa8d8aa9",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F3%2F3.4.jpg?alt=media&token=4618d21a-c95d-4999-9d00-afd004e593e2",
+                "https://firebasestorage.googleapis.com/v0/b/siteux-healthfix.appspot.com/o/product-images%2FSlazenger%2F3%2F3.5.jpg?alt=media&token=2a0347d3-5407-4959-b235-560dcdfde9dc"
+            ],
+            "original_price": 4399,
+            "product_sub_type": "Men Clothing",
+            "product_type": "Clothing Apparel",
+            "seller": "Labels Nepal Pvt. Ltd."
+        }
+    ]
+}

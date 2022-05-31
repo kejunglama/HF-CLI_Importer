@@ -1,0 +1,1 @@
+firebase-import --database_url https://siteux-healthfix.firebaseio.com --path /temp_slazenger --json JSON-Slazenger.json --service_account service_account.json
